@@ -26857,6 +26857,7 @@ audio:not(:first-child){
 .tt-logo img{
   position: relative;
   height: auto;
+  width:91px
 }
 
 /* tt-box-info */
